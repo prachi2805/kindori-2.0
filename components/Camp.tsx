@@ -32,7 +32,7 @@ const CampSite = ({
           <div className="flex flex-col gap-1 ">
             <h4
               className=" text-2xl font-fredoka mb-3"
-              style={{ textWrap: "nowrap", color: "white" }}
+              style={{ color: "white" }}
             >
               {title}
             </h4>
