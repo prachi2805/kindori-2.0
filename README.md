@@ -1,6 +1,7 @@
 Hello dev community 👋
 
-I'm exicted to clone this website: [Kindori](https://preview.themeforest.net/item/kindori-school-kindergarten-wordpress-theme/full_screen_preview/28441167?_ga=2.175390756.764977852.1697110138-739639173.1688383386&_gac=1.118945915.1694013563.Cj0KCQjwxuCnBhDLARIsAB-cq1pGH1iPieAd5akNuN_AgYQz_JzRtZyigwlCvhOAgFJzw_gTKjDjx1gaAqcTEALw_wcB)
+I have cloned this website: [Kindori](https://preview.themeforest.net/item/kindori-school-kindergarten-wordpress-theme/full_screen_preview/28441167?_ga=2.175390756.764977852.1697110138-739639173.1688383386&_gac=1.118945915.1694013563.Cj0KCQjwxuCnBhDLARIsAB-cq1pGH1iPieAd5akNuN_AgYQz_JzRtZyigwlCvhOAgFJzw_gTKjDjx1gaAqcTEALw_wcB)
+
 
 <div align="center">
   <div>
@@ -24,7 +25,7 @@ I'm exicted to clone this website: [Kindori](https://preview.themeforest.net/ite
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Built with Next.js, TailwindCSS, and TypeScript, this landing page not only looks great but also serves as a hands-on project to reinforce one's understanding of these technologies.
+Built with Next.js, TailwindCSS, and TypeScript, this website not only looks great but also serves as a hands-on project to reinforce one's understanding of these technologies.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -35,13 +36,11 @@ Built with Next.js, TailwindCSS, and TypeScript, this landing page not only look
 
 👉 **Appealing Hero Section**: Visually striking hero section that captures attention and sets the tone for the website
 
-👉 **Camp Exploration Section**: Showcase various camps in a dedicated section, allowing users to explore different options.
+👉 **Card Exploration Section**: Showcase various cards in a dedicated section, allowing users to explore different options.
 
 👉 **Engaging Kindori Section**: A compelling kindori guide section with informative content and captivating visuals.
 
 👉 **Feature-Rich Section**: A complex and feature-rich section offering advanced functionalities or in-depth information.
-
-👉 **Call to Action for Mobile Apps**: A call-to-action section encouraging users to explore the mobile app version, complete with download links.
 
 👉 **Footer**: Comprehensive footer section containing site and social media links for easy navigation and connectivity.
 
@@ -49,4 +48,4 @@ and many more, including code architecture and reusability
 
 ## <a name="links">📎 Links</a>
 
-Here is the live working link of my hosted project [kindori2.0](https//:google.com)
+Here is the live working link of my hosted project: [Kindori-2.0](https://kindori-kids.netlify.app/)
