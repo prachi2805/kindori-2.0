@@ -64,9 +64,9 @@ const Card = ({ items, showSocialLinks, showMoreActivities }: CardProps) => {
               key={item.id}
               className="bg-white text-black rounded-xl border-2"
             >
-              <div className="h-56 rounded-t-xl flexCenter">
+              <div className="max-h-full rounded-t-xl flexCenter">
                 <Image
-                  className={`w-auto h-auto ${showSocialLinks ? "mb-10" : ""}`}
+                  className={`w-auto h-auto ${showSocialLinks }`}
                   src={item.href}
                   alt={item.name}
                   width={300}
