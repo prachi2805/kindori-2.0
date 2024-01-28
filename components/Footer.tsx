@@ -7,6 +7,7 @@ import {
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
+import ScrollToTopButton from "@/components/ScrollToTopButton"; // Import CSS module
 
 const Footer = () => {
   return (
@@ -109,6 +110,9 @@ const Footer = () => {
             <p className="regular-14  text-white">Sitemap. Terms of Service</p>
           </section>
         </div>
+
+          <ScrollToTopButton />
+        
       </footer>
     </>
   );
